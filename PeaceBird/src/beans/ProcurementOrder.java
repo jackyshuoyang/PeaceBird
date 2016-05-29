@@ -11,5 +11,6 @@ public class ProcurementOrder {
 	public float fob;
 	public ArrayList<String>documents;
 	public Date initDate;
+	//more
 
 }
